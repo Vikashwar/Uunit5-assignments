@@ -1,0 +1,13 @@
+{
+  "employeeData": [
+    {
+      "name": "swaraj",
+      "age": "24",
+      "address": "Banglore",
+      "department": "Operations",
+      "status": "Single",
+      "salary": "60000",
+      "id": 1
+    }
+  ]
+}
