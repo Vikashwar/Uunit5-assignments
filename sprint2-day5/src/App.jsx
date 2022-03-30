@@ -15,11 +15,11 @@ function App() {
         Default Button
       </Button>
       <br />
-      <Button border="dashed">Dashed Button</Button>
+      <Button border="dashded">Dashed Button</Button>
       <br />
-      <Button border="none">Text Button</Button>
+      <Button border="">Text Button</Button>
       <br />
-      <Button border="none" color='dodgerblue'>Link Button</Button>
+      <Button border="circle" color='black'>Link Button</Button>
     </div>
   )
 }
