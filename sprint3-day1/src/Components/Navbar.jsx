@@ -9,7 +9,7 @@ export const Navbar = () =>{
 
     const obj = {
         "email": "eve.holt@reqres.in",
-        "password": "cityslicka"
+        "password": "vk"
     }
 
     const login = (obj)=>{
