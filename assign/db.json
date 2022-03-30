@@ -1,0 +1,49 @@
+{
+  "groceries": [
+    {
+      "id": 1,
+      "title": "json-server",
+      "author": "typicode"
+    },
+    {
+      "title": "tarun",
+      "purchased": false,
+      "id": 2
+    },
+    {
+      "title": "tarun nanna",
+      "purchased": false,
+      "id": 3
+    },
+    {
+      "title": "shubham",
+      "purchased": false,
+      "id": 4
+    },
+    {
+      "title": "shubham nna",
+      "purchased": false,
+      "id": 5
+    },
+    {
+      "title": "mango",
+      "purchased": false,
+      "id": 6
+    },
+    {
+      "title": "apple",
+      "purchased": false,
+      "id": 7
+    },
+    {
+      "title": "taru",
+      "purchased": false,
+      "id": 8
+    },
+    {
+      "title": "",
+      "purchased": false,
+      "id": 9
+    }
+  ]
+}
